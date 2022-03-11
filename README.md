@@ -2,7 +2,7 @@
 - 👀 I’m interested learning HTML+CSS, JavaScript, Python, C#, C++ for game & web development, quants/banking, biotech, and AI/Data Science.
 - 🌱 I’m currently learning Lua, for developing games & models in Roblox Studio, as a stepping stone for my long-term goals in game development.
 - 💞️ I’m looking to collaborate on Roblox Studio Projects.
-- 📫 Reach me on Discord @ Luchio#0009
+- 📫 Reach me on Discord @ Luchio#0044
 
 <!---
 Luchio9/Luchio9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
